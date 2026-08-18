@@ -7,7 +7,13 @@ Hi 👋 I'm Srushti
 
 🛠️ Skills
 
-C • Python • SQL • Git • GitHub
+.💻 C
+. 🐍 Python
+. 🗄️ SQL
+. 🔧 Git
+. 🐙 GitHub
+
+
 
 🚀 Projects
 
