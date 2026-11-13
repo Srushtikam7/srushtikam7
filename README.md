@@ -24,7 +24,7 @@ Hi 👋 I'm Srushti
 📚 Currently Learning
 
 - Data Structures
-- Python
+- Java 
 - Machine Learning
 
 
